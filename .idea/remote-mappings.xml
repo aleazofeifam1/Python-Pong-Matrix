@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://aleazofeifam@192.168.1.26:22/home/aleazofeifam/WSTest/VirtualTest/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
